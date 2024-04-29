@@ -26,7 +26,7 @@ The model architecture used for this project is ResNet-50, a deep convolutional 
 
 ## Results
 
-After training for 20 epochs, the model achieved an accuracy of approximately 78% on the validation set.
+After training for 20 epochs, the model achieved an accuracy of approximately 82% on the validation set. Though, the model show signs of overfitting.
 
 ## License
 
